@@ -1,6 +1,8 @@
 Магический шар ("8ball")
 ===
 
+![hangman](https://github.com/axmaxon/8ball/blob/main/data/pictures/8ball.jpg?raw=true)
+
 Консольное мини-приложение "Магический шар"
 
 ## Что делает:
